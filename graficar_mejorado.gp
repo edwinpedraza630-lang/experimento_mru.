@@ -5,7 +5,7 @@ set output "grafico_mejorado.png"
 # Etiquetas y título
 set xlabel "Tiempo (s)"
 set ylabel "Posición (m)"
-set title "MRU - Posición vs Tiempo con Recta de Ajuste"
+set title "MRU - Integrantes: Edwin Pedraza y Daren Pachon - Velocidad: 3.00 m/s"
 
 # Cuadrícula y leyenda
 set grid
