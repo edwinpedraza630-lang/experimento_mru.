@@ -1,0 +1,2 @@
+Velocidad del móvil: 3.00 m/s
+Fórmula: posición(t) = 5 + 3.00 × t
